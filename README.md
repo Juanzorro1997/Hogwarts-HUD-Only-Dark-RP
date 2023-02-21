@@ -1,5 +1,8 @@
 # Hogwarts-HUD-Only-Dark-RP
 
+![descarga (2)](https://user-images.githubusercontent.com/121838282/220336039-4f866101-cb19-47a1-a5e1-14cb52b39699.jpg)
+
+
 IMPORTANT
 
 
@@ -39,3 +42,6 @@ El uso de este HUD es libre.
 No esta permitido resubirlo o modificarlo.
 
 No he comprobado su buen funcionamiento en servidores online, son libres de usarlo.
+
+![preview_Sin título1](https://user-images.githubusercontent.com/121838282/220336221-4b007354-6e52-403e-b4b2-a456f1d0cc74.jpg)
+
