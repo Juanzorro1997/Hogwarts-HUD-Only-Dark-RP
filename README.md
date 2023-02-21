@@ -8,6 +8,9 @@
 
 This addon only works correctly on DARK RP
 
+**Installation**
+
+Extract the .rar file and you will get Hogwarts HUD [Only Dark RP] folder. Put that extracted folder in Addons section at C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons or put it on your server.
 
 
 **English:**
@@ -29,6 +32,9 @@ I haven't checked its proper functioning on online servers, they are free to use
 
 Este addon solo funciona correctamente en Dark RP.
 
+**Instalación**
+
+Extraiga el archivo .rar y obtendrá la carpeta Hogwarts HUD [Only Dark RP]. Coloque esa carpeta extraída en la sección Addons en C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons o póngala en su servidor.
 
 
 **Español:**
