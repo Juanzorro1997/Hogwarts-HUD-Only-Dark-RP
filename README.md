@@ -3,7 +3,7 @@
 ![descarga (2)](https://user-images.githubusercontent.com/121838282/220336039-4f866101-cb19-47a1-a5e1-14cb52b39699.jpg)
 
 
-IMPORTANT
+**IMPORTANT**
 
 
 This addon only works correctly on DARK RP
@@ -24,7 +24,7 @@ I haven't checked its proper functioning on online servers, they are free to use
 
 
 
-IMPORTANTE
+**IMPORTANTE**
 
 
 Este addon solo funciona correctamente en Dark RP.
