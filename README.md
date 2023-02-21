@@ -1,12 +1,13 @@
 # Hogwarts-HUD-Only-Dark-RP
 
-[IMPORTANT]
+IMPORTANT
+
 
 This addon only works correctly on DARK RP
 
 
 
-English:
+**English:**
 
 This is my first HUD.
 
@@ -20,13 +21,14 @@ I haven't checked its proper functioning on online servers, they are free to use
 
 
 
-[IMPORTANTE]
+IMPORTANTE
+
 
 Este addon solo funciona correctamente en Dark RP.
 
 
 
-Español:
+**Español:**
 
 Este es mi primer HUD.
 
